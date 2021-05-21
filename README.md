@@ -9,7 +9,7 @@ Depois de ter entendido os conceitos , fizemos alguns exercícios. Uma das liç�
 
 De início, tive um pouco de dificuldade em transmitir o meu raciocínio para a linguagem do javascript mas aí comecei a "fracionar " o exercício fazendo o "baby steps" como diria a profa maravilhosa! Depois tudo ficou tão natural que perdi o medo de interpolar, de usar o switch case, e consegui entender tudo o que eu fiz. O balanço final dessa aula é : Estou muito feliz com o meu progresso , me sinto mais segura e que as variáveis , operadores e condicionais não são nenhum bicho de 7 cabeças. E que só tem uma maneira de melhorar: praticar, praticar e praticar . :happy:
 
-! [Gatinho digitando] (https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif)
+
 
 
 
